@@ -1,6 +1,6 @@
-example= 'этомоястрока'
+example= 'Топинамбур'
 print(example[0])
 print(example[-1])
-print(example[7:12])
+print(example[3:10])
 print(example[::-1])
-print(example[1:12:2])
+print(example[1:10:2])
